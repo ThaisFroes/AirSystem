@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Tentativa\AirSystem\bin\Debug\AirSystem.exe.config
+C:\Users\PC\Desktop\Tentativa\AirSystem\bin\Debug\AirSystem.exe
+C:\Users\PC\Desktop\Tentativa\AirSystem\bin\Debug\AirSystem.pdb
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.Properties.Resources.resources
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.exe
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.pdb
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.Views.frmNovoUsuario.resources
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.frmLogin.resources
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.Views.frmPrincipal.resources
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.Views.frmListarUsuarios.resources
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\EstudoTaskool.Views.frmListaUsu.resources
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.Views.frmCadastro.resources
+C:\Users\PC\Desktop\Tentativa\AirSystem\obj\Debug\AirSystem.Views.frmListaUsuario.resources
